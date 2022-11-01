@@ -1,0 +1,22 @@
+config.js
+projektin_muistiinpanoja/
+testikayttajat.txt
+bfg.jar
+data_to_remove.txt
+app.json
+
+# node_modules/
+# .expo/
+# npm-debug.*
+# *.jks
+# *.p8
+# *.p12
+# *.key
+# *.mobileprovision
+# *.orig.*
+# web-build/
+ 
+# macOS
+# .DS_Store
+
+
